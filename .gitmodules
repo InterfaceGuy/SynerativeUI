@@ -1,3 +1,12 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "Culture"]
+	path = Culture
+	url = https://github.com/InterfaceGuy/Culture.git
+[submodule "SuperAlignment"]
+	path = SuperAlignment
+	url = https://github.com/InterfaceGuy/SuperAlignment.git
+[submodule "Love"]
+	path = Love
+	url = https://github.com/InterfaceGuy/Love.git

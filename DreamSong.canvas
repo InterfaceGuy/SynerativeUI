@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"899eff6ac8f61808","type":"file","file":"SynerativeUI/Culture/Culture.png","x":-620,"y":-280,"width":400,"height":363},
+		{"id":"ca6a2783d2afa02c","type":"file","file":"SynerativeUI/Love/Love.png","x":-612,"y":-740,"width":385,"height":400},
+		{"id":"d79bde8ae9daf1a4","type":"text","text":"Love represented as interconnected web of intersecting horizons\n\nAdiem seeks to expand empathy == circles overlap more","x":-90,"y":-704,"width":516,"height":328},
+		{"id":"58e43d6dfd0892ba","type":"text","text":"this is how the social UI could look like\n\ncircle overlap represents heart synchronicity","x":-44,"y":-184,"width":470,"height":171},
+		{"id":"fd2a63242c544883","type":"file","file":"SynerativeUI/SuperAlignment/SuperAlignment.gif","x":-619,"y":150,"width":400,"height":225},
+		{"id":"9e61d9a1ba4e3a13","type":"text","text":"framing Adiem as a key piece for AI alignment\nAI emerges from collective\nAI = non-specific amplifier (like psychedelic)\nfearful collective (Moloch) is dangerous and creates dangerous AI\nloving collective is agent of healing and creates healing AI","x":-26,"y":141,"width":452,"height":244}
+	],
+	"edges":[
+		{"id":"1654841ee8f6133e","fromNode":"9e61d9a1ba4e3a13","fromSide":"left","toNode":"fd2a63242c544883","toSide":"right","toEnd":"none"},
+		{"id":"bf37a12918a49526","fromNode":"ca6a2783d2afa02c","fromSide":"right","toNode":"d79bde8ae9daf1a4","toSide":"left","toEnd":"none"},
+		{"id":"b7b2f10b2b2392be","fromNode":"899eff6ac8f61808","fromSide":"right","toNode":"58e43d6dfd0892ba","toSide":"left","toEnd":"none"},
+		{"id":"17142223ee26b485","fromNode":"ca6a2783d2afa02c","fromSide":"bottom","toNode":"899eff6ac8f61808","toSide":"top"},
+		{"id":"1eebb56604fbeff1","fromNode":"899eff6ac8f61808","fromSide":"bottom","toNode":"fd2a63242c544883","toSide":"top"}
+	]
+}
